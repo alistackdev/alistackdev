@@ -11,13 +11,27 @@ I am a passionate Computer Science student and digital creator. I specialize in 
 
 ---
 
+### 🚀 Technologies & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Expertise
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Web** | HTML5, CSS3, JavaScript, Responsive Design |
+| **Frontend Web** | HTML5, CSS3, JavaScript, React.js, Responsive Design |
 | **CMS & Hosting** | WordPress, GitHub Pages, Custom DNS Configurations |
-| **Programming** | C++ (Object-Oriented Programming & Systems) |
+| **Programming** | C++ (Object-Oriented Programming & Systems Automation) |
 | **Design & Branding** | Cinematic Visual Layouts, Ultra-Luxury Brand Identities |
 
 ---
@@ -32,7 +46,7 @@ I am a passionate Computer Science student and digital creator. I specialize in 
 ---
 
 ### 🏅 Core Project Showcases
-* **Personal Interactive Portfolio:** Hosted seamlessly at [alistackdev.github.io](https://alistackdev.github.io) to showcase interactive design elements and core technical skills.
+* **Personal Interactive Portfolio:** Hosted seamlessly at [alistackdev.github.io](https://alistackdev.github.io) to showcase interactive design elements, React integrations, and core technical skills.
 * **Romic Media:** Active professional agency platform optimized for speed, performance, and search ranking.
 
 ---
