@@ -47,7 +47,7 @@ I am a passionate Computer Science student and digital creator. I specialize in 
 
 ### 🏅 Core Project Showcases
 * **Personal Interactive Portfolio:** Hosted seamlessly at [alistackdev.github.io](https://alistackdev.github.io) to showcase interactive design elements, React integrations, and core technical skills.
-* **Romic Media:** Active professional agency platform optimized for speed, performance, and search ranking.
+* **Romic Media:** Active professional agency platform optimized for speed, performance, sco optomized blogs search ranking.
 
 ---
 
