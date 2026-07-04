@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Overview
-I am a passionate Computer Science student and digital creator. I specialize in building responsive, high-performance web applications, architecting custom brand identities, and optimizing search engine visibility to drive real-world digital growth.
+I am a passionate Computer Science student and digital creator. I specialize in building responsive, high-performance web applications,, architecting custom brand identities, and optimizing search engine visibility to drive real-world digital growth.
 
 - 🖥️ **Portfolio:** [alistackdev.github.io](https://alistackdev.github.io)
 - 💼 **Agency:** [romicmedia.com](https://romicmedia.com)
