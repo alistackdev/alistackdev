@@ -32,7 +32,7 @@ I am a passionate Computer Science student and digital creator. I specialize in 
 | **Frontend Web** | HTML5, CSS3, JavaScript, React.js, Responsive Design |
 | **CMS & Hosting** | WordPress, GitHub Pages, Custom DNS Configurations |
 | **Programming** | C++ (Object-Oriented Programming & Systems Automation) |
-| **Design & Branding** | Cinematic Visual Layouts,, Ultra-Luxury Brand Identities |
+| **Design & Branding** | Cinematic Visual Layouts, Ultra-Luxury Brand Identities |
 
 ---
 
