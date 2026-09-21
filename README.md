@@ -39,7 +39,7 @@ Backend-focused Computer Science undergraduate specializing in **AI-integrated a
 | **Programming** | C++ (Object-Oriented Programming & Systems Automation) |
 | **Digital Marketing** | Meta Ads Manager, Lead Generation, Email Marketing, Content Strategy |
 | **Content & Media** | Adobe Premiere Pro, InVideo AI, ElevenLabs, Graphic Design, Thumbnail Design |
-| **E-Commerce** | Store Management, Product Sourcing, Order Fulfilment, Meta Paid Advertisings |
+| **E-Commerce** | Store Management, Product Sourcing, Order Fulfilment, Meta Paid Advertising |
 
 ---
 
