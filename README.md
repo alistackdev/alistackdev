@@ -34,7 +34,7 @@ Backend-focused Computer Science undergraduate specializing in **AI-integrated a
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Backend & AI Integration** | Node.js, REST APIs, Retrieval-Augmented Generation (RAG), Grok AI, Google Docs/Sheets API, Zoho SalesIQ API, Nodemailer |
-| **Frontend Web** | HTML5, CSS3, JavaScript, React.js, Responsive Design |
+| **Frontend Web** | HTML5, CSS3, JavaScript, React.js, Responsive Designs |
 | **CMS & Hosting** | WordPress, GitHub Pages, Custom DNS Configurations |
 | **Programming** | C++ (Object-Oriented Programming & Systems Automation) |
 | **Digital Marketing** | Meta Ads Manager, Lead Generation, Email Marketing, Content Strategy |
