@@ -40,11 +40,6 @@ I am a Computer Science student at **GCUF** who loves building things, exploring
 
 ---
 
-### 📂 Featured Project
-- 🔹 **[Human-in-the-Loop AI & RAG Pipeline](https://alistackdev.github.io/case-study.html)** — Custom Node.js backend unifying multi-channel inbound inquiries with a grounded RAG knowledge engine and human approval gate.  
-  👉 *[View Interactive Case Study](https://alistackdev.github.io/case-study.html)*
-
----
 
 ### 📊 GitHub Telemetry
 
