@@ -41,15 +41,6 @@ I am a Computer Science student at **GCUF** who loves building things, exploring
 ---
 
 
-### 📊 GitHub Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alistackdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" alt="Ali's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alistackdev&theme=dark&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakNum=c9d1d9" alt="GitHub Streak" height="150" />
-</p>
-
----
-
 ### 📬 Say Hello!
 
 - 💼 **LinkedIn:** [linkedin.com/in/alistackdev1](https://www.linkedin.com/in/alistackdev1)
