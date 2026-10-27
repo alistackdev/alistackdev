@@ -51,6 +51,6 @@ I am a Computer Science student at **GCUF** who loves building things, exploring
 ---
 
 ### 📬 Say Hello!
-- 🌐 **Portfolio:** [alistackdev.github.io](https://alistackdev.github.io)
+
 - 💼 **LinkedIn:** [linkedin.com/in/alistackdev1](https://www.linkedin.com/in/alistackdev1)
 - 📧 **Email:** [hassanguaraya@gmail.com](mailto:hassanguaraya@gmail.com)
